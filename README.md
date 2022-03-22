@@ -6,7 +6,7 @@ Changes in a person's speech are one of the most common symptoms of Parkinson's 
 
 
 Contributors :
-M.Mahima
+M.Mahima<br>
 Aparna S Dev
 Devitha Anil
 T.Bhavana 
