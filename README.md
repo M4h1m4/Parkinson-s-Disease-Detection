@@ -5,6 +5,12 @@ Parkinson's disease is a nervous system disorder that impairs movement control.T
 Changes in a person's speech are one of the most common symptoms of Parkinson's disease.Speech evolves. One  can speak softly, quickly, slur, or pause before speaking. Ones speech may be monotone rather than with the typical inflections.The dataset contains records of biomedical voice measurements.This project's goal is to use biomedical voice measurements to determine whether a person has Parkinson's disease.
 
 
+Contributors :
+M.Mahima
+Aparna S Dev
+Devitha Anil
+T.Bhavana 
+
 [Click here for Dataset!!!](https://archive.ics.uci.edu/ml/datasets/parkinsons)
 
 
